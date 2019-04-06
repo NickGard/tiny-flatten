@@ -1,0 +1,1 @@
+Object.defineProperty(exports,"__esModule",{value:!0}),exports.flatten=function(e){return e.reduce(function(e,t){return e.concat(t)},[])};
